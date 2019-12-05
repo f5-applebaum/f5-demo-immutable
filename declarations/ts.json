@@ -1,0 +1,1 @@
+{"class":"Telemetry","My_System":{"class":"Telemetry_System","systemPoller":{"interval":60}},"My_Listener":{"class":"Telemetry_Listener","port":6514},"My_Consumer":{"class":"Telemetry_Consumer","type":"AWS_S3","region":"us-east-1","bucket":"demo","username":"XXXXX","passphrase":{"cipherText":"XXXXXXXXX"}}}
